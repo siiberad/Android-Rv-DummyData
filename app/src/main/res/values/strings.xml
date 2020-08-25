@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rupi</string>
+    <string name="registrasi">Registrasi</string>
+    <string name="home">Home</string>
+    <string name="akun">Akun</string>
+    <string name="your_account">Akun Anda</string>
+    <string name="username">Username</string>
+    <string name="logout">Logout</string>
+    <string name="email">Email</string>
+</resources>
